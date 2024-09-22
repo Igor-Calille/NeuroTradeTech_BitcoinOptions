@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 # Configurações da API
 base_url = "https://www.deribit.com/api/v2"
 
-#
+##
 # Autenticação
 def get_access_token():
     auth_url = f"{base_url}/public/auth"
