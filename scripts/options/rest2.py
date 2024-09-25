@@ -3,8 +3,7 @@ from datetime import datetime, timedelta
 
 # Configurações da API
 base_url = "https://www.deribit.com/api/v2"
-client_id = "egBxKpUb"
-client_secret = "0b9Xjv5nZcT70yD26GPokeVWEZXM5JmbjRkLuDnaFSU"
+
 
 # Autenticação
 def get_access_token():
